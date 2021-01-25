@@ -1,7 +1,7 @@
 # COURSE1-Introduction-to-Data-Science-in-Python
 In this 4 weeks online course at University of Michigan the following items have been learned:
 
-    Reading and Writing CSV files /s
+    Reading and Writing CSV files 
     Advanced Python Lambda and List Comprehensions
     Numerical Python Library (NumPy)
     Manipulating/Debugging of Text with Regular Expression (regex)
